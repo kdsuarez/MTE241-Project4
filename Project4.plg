@@ -1,0 +1,541 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+N:\MTE241\Project4\Project4\Project4.uvproj
+Project File Date:  07/08/2017
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(282): error:  #167: argument of type "void (*)(void)" is incompatible with parameter of type "OS_TID"
+Main.c(283): error:  #167: argument of type "void (*)(void)" is incompatible with parameter of type "OS_TID"
+Main.c(284): error:  #20: identifier "game_level" is undefined
+Main.c(290): warning:  #111-D: statement is unreachable
+Main.c(276): warning:  #177-D: variable "i" was declared but never referenced
+Main.c(276): warning:  #177-D: variable "LED" was declared but never referenced
+Main.c(320): warning:  #111-D: statement is unreachable
+Main.c(327): warning:  #177-D: variable "i" was declared but never referenced
+Target not created
+Build target 'Target 1'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(290): warning:  #111-D: statement is unreachable
+Main.c(276): warning:  #177-D: variable "i" was declared but never referenced
+Main.c(276): warning:  #177-D: variable "LED" was declared but never referenced
+Main.c(320): warning:  #111-D: statement is unreachable
+Main.c(327): warning:  #177-D: variable "i" was declared but never referenced
+linking...
+Program Size: Code=11136 RO-data=6556 RW-data=2148 ZI-data=5860  
+"Project4.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\MTE241\\Project4\\Project4\\Project4.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(291): warning:  #111-D: statement is unreachable
+Main.c(276): warning:  #177-D: variable "i" was declared but never referenced
+Main.c(276): warning:  #177-D: variable "LED" was declared but never referenced
+Main.c(321): warning:  #111-D: statement is unreachable
+Main.c(328): warning:  #177-D: variable "i" was declared but never referenced
+linking...
+Program Size: Code=11140 RO-data=6556 RW-data=2148 ZI-data=5860  
+"Project4.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\MTE241\\Project4\\Project4\\Project4.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(291): warning:  #111-D: statement is unreachable
+Main.c(276): warning:  #177-D: variable "i" was declared but never referenced
+Main.c(276): warning:  #177-D: variable "LED" was declared but never referenced
+Main.c(321): warning:  #111-D: statement is unreachable
+Main.c(328): warning:  #177-D: variable "i" was declared but never referenced
+linking...
+Program Size: Code=11144 RO-data=6556 RW-data=2148 ZI-data=5860  
+"Project4.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\MTE241\\Project4\\Project4\\Project4.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(291): warning:  #111-D: statement is unreachable
+Main.c(276): warning:  #177-D: variable "i" was declared but never referenced
+Main.c(276): warning:  #177-D: variable "LED" was declared but never referenced
+Main.c(321): warning:  #111-D: statement is unreachable
+Main.c(328): warning:  #177-D: variable "i" was declared but never referenced
+linking...
+Program Size: Code=11144 RO-data=6556 RW-data=2148 ZI-data=5860  
+"Project4.axf" - 0 Error(s), 6 Warning(s).
+Build target 'Target 1'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(291): warning:  #111-D: statement is unreachable
+Main.c(276): warning:  #177-D: variable "i" was declared but never referenced
+Main.c(276): warning:  #177-D: variable "LED" was declared but never referenced
+Main.c(321): warning:  #111-D: statement is unreachable
+Main.c(328): warning:  #177-D: variable "i" was declared but never referenced
+linking...
+Program Size: Code=11144 RO-data=6556 RW-data=2148 ZI-data=5860  
+"Project4.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\MTE241\\Project4\\Project4\\Project4.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(291): warning:  #111-D: statement is unreachable
+Main.c(276): warning:  #177-D: variable "i" was declared but never referenced
+Main.c(276): warning:  #177-D: variable "LED" was declared but never referenced
+Main.c(321): warning:  #111-D: statement is unreachable
+Main.c(328): warning:  #177-D: variable "i" was declared but never referenced
+linking...
+Program Size: Code=11144 RO-data=6556 RW-data=2148 ZI-data=5860  
+"Project4.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\MTE241\\Project4\\Project4\\Project4.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(291): warning:  #111-D: statement is unreachable
+Main.c(276): warning:  #177-D: variable "i" was declared but never referenced
+Main.c(276): warning:  #177-D: variable "LED" was declared but never referenced
+Main.c(321): warning:  #111-D: statement is unreachable
+Main.c(328): warning:  #177-D: variable "i" was declared but never referenced
+linking...
+Program Size: Code=11144 RO-data=6556 RW-data=2148 ZI-data=5860  
+"Project4.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\MTE241\\Project4\\Project4\\Project4.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(291): warning:  #111-D: statement is unreachable
+Main.c(276): warning:  #177-D: variable "i" was declared but never referenced
+Main.c(276): warning:  #177-D: variable "LED" was declared but never referenced
+Main.c(321): warning:  #111-D: statement is unreachable
+Main.c(328): warning:  #177-D: variable "i" was declared but never referenced
+linking...
+Program Size: Code=11144 RO-data=6556 RW-data=2148 ZI-data=5860  
+"Project4.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\MTE241\\Project4\\Project4\\Project4.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(291): warning:  #111-D: statement is unreachable
+Main.c(276): warning:  #177-D: variable "i" was declared but never referenced
+Main.c(276): warning:  #177-D: variable "LED" was declared but never referenced
+Main.c(321): warning:  #111-D: statement is unreachable
+Main.c(328): warning:  #177-D: variable "i" was declared but never referenced
+linking...
+Program Size: Code=11144 RO-data=6556 RW-data=2148 ZI-data=5860  
+"Project4.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\MTE241\\Project4\\Project4\\Project4.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(291): warning:  #111-D: statement is unreachable
+Main.c(276): warning:  #177-D: variable "i" was declared but never referenced
+Main.c(276): warning:  #177-D: variable "LED" was declared but never referenced
+Main.c(321): warning:  #111-D: statement is unreachable
+Main.c(328): warning:  #177-D: variable "i" was declared but never referenced
+linking...
+Program Size: Code=11144 RO-data=6556 RW-data=2148 ZI-data=5860  
+"Project4.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\MTE241\\Project4\\Project4\\Project4.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(292): warning:  #111-D: statement is unreachable
+Main.c(277): warning:  #177-D: variable "i" was declared but never referenced
+Main.c(277): warning:  #177-D: variable "LED" was declared but never referenced
+Main.c(322): warning:  #111-D: statement is unreachable
+Main.c(329): warning:  #177-D: variable "i" was declared but never referenced
+linking...
+Program Size: Code=11156 RO-data=6556 RW-data=2148 ZI-data=5860  
+"Project4.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\MTE241\\Project4\\Project4\\Project4.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(213): warning:  #223-D: function "itoa" declared implicitly
+Main.c(213): error:  #167: argument of type "int" is incompatible with parameter of type "unsigned char *"
+Main.c(213): error:  #18: expected a ")"
+Main.c(292): warning:  #111-D: statement is unreachable
+Main.c(277): warning:  #177-D: variable "i" was declared but never referenced
+Main.c(277): warning:  #177-D: variable "LED" was declared but never referenced
+Main.c(322): warning:  #111-D: statement is unreachable
+Main.c(329): warning:  #177-D: variable "i" was declared but never referenced
+Target not created
+Build target 'Target 1'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(213): warning:  #223-D: function "itoa" declared implicitly
+Main.c(213): error:  #167: argument of type "int" is incompatible with parameter of type "unsigned char *"
+Main.c(292): warning:  #111-D: statement is unreachable
+Main.c(277): warning:  #177-D: variable "i" was declared but never referenced
+Main.c(277): warning:  #177-D: variable "LED" was declared but never referenced
+Main.c(322): warning:  #111-D: statement is unreachable
+Main.c(329): warning:  #177-D: variable "i" was declared but never referenced
+Target not created
+Build target 'Target 1'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(213): error:  #167: argument of type "unsigned int" is incompatible with parameter of type "const char *"
+Main.c(213): error:  #167: argument of type "int" is incompatible with parameter of type "unsigned char *"
+Main.c(292): warning:  #111-D: statement is unreachable
+Main.c(277): warning:  #177-D: variable "i" was declared but never referenced
+Main.c(277): warning:  #177-D: variable "LED" was declared but never referenced
+Main.c(322): warning:  #111-D: statement is unreachable
+Main.c(329): warning:  #177-D: variable "i" was declared but never referenced
+Target not created
+Build target 'Target 1'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(213): warning:  #223-D: function "itoa" declared implicitly
+Main.c(292): warning:  #111-D: statement is unreachable
+Main.c(277): warning:  #177-D: variable "i" was declared but never referenced
+Main.c(277): warning:  #177-D: variable "LED" was declared but never referenced
+Main.c(322): warning:  #111-D: statement is unreachable
+Main.c(329): warning:  #177-D: variable "i" was declared but never referenced
+linking...
+Project4.axf: Error: L6218E: Undefined symbol itoa (referred from main.o).
+Target not created
+Rebuild target 'Target 1'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling ece_spi.c...
+compiling GLCD_Scroll.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling joystick.c...
+compiling KBD.c...
+compiling led.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(213): warning:  #223-D: function "itoa" declared implicitly
+Main.c(292): warning:  #111-D: statement is unreachable
+Main.c(277): warning:  #177-D: variable "i" was declared but never referenced
+Main.c(277): warning:  #177-D: variable "LED" was declared but never referenced
+Main.c(322): warning:  #111-D: statement is unreachable
+Main.c(329): warning:  #177-D: variable "i" was declared but never referenced
+compiling MPU9250.c...
+compiling potentiometer.c...
+compiling Retarget.c...
+compiling sensor_fusion.c...
+compiling timer.c...
+compiling uart.c...
+compiling RTX_config.c...
+linking...
+Project4.axf: Error: L6218E: Undefined symbol itoa (referred from main.o).
+Target not created
+Build target 'Target 1'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(292): warning:  #111-D: statement is unreachable
+Main.c(277): warning:  #177-D: variable "i" was declared but never referenced
+Main.c(277): warning:  #177-D: variable "LED" was declared but never referenced
+Main.c(322): warning:  #111-D: statement is unreachable
+Main.c(329): warning:  #177-D: variable "i" was declared but never referenced
+linking...
+Program Size: Code=11156 RO-data=6556 RW-data=2148 ZI-data=5860  
+"Project4.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\MTE241\\Project4\\Project4\\Project4.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(292): warning:  #111-D: statement is unreachable
+Main.c(277): warning:  #177-D: variable "i" was declared but never referenced
+Main.c(277): warning:  #177-D: variable "LED" was declared but never referenced
+Main.c(322): warning:  #111-D: statement is unreachable
+Main.c(329): warning:  #177-D: variable "i" was declared but never referenced
+linking...
+Program Size: Code=11156 RO-data=6556 RW-data=2148 ZI-data=5860  
+"Project4.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\MTE241\\Project4\\Project4\\Project4.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(292): warning:  #111-D: statement is unreachable
+Main.c(277): warning:  #177-D: variable "i" was declared but never referenced
+Main.c(277): warning:  #177-D: variable "LED" was declared but never referenced
+Main.c(322): warning:  #111-D: statement is unreachable
+Main.c(329): warning:  #177-D: variable "i" was declared but never referenced
+linking...
+Program Size: Code=11156 RO-data=6556 RW-data=2148 ZI-data=5860  
+"Project4.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\MTE241\\Project4\\Project4\\Project4.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(292): warning:  #111-D: statement is unreachable
+Main.c(277): warning:  #177-D: variable "i" was declared but never referenced
+Main.c(277): warning:  #177-D: variable "LED" was declared but never referenced
+Main.c(322): warning:  #111-D: statement is unreachable
+Main.c(329): warning:  #177-D: variable "i" was declared but never referenced
+linking...
+Program Size: Code=11156 RO-data=6556 RW-data=2148 ZI-data=5860  
+"Project4.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\MTE241\\Project4\\Project4\\Project4.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(269): warning:  #111-D: statement is unreachable
+Main.c(254): warning:  #177-D: variable "i" was declared but never referenced
+Main.c(254): warning:  #177-D: variable "LED" was declared but never referenced
+Main.c(299): warning:  #111-D: statement is unreachable
+Main.c(306): warning:  #177-D: variable "i" was declared but never referenced
+linking...
+Project4.axf: Error: L6218E: Undefined symbol ADCStat (referred from adc.o).
+Project4.axf: Error: L6218E: Undefined symbol ADCValue (referred from adc.o).
+Target not created
+Build target 'Target 1'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(269): warning:  #111-D: statement is unreachable
+Main.c(254): warning:  #177-D: variable "i" was declared but never referenced
+Main.c(254): warning:  #177-D: variable "LED" was declared but never referenced
+Main.c(299): warning:  #111-D: statement is unreachable
+Main.c(306): warning:  #177-D: variable "i" was declared but never referenced
+linking...
+Project4.axf: Error: L6218E: Undefined symbol ADCStat (referred from adc.o).
+Project4.axf: Error: L6218E: Undefined symbol ADCValue (referred from adc.o).
+Target not created
+Build target 'Target 1'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(28): error:  #147: declaration is incompatible with "unsigned int ADCStat" (declared at line 11 of "ADC.h")
+Main.c(29): error:  #147: declaration is incompatible with "unsigned int ADCValue" (declared at line 12 of "ADC.h")
+Main.c(272): warning:  #111-D: statement is unreachable
+Main.c(257): warning:  #177-D: variable "i" was declared but never referenced
+Main.c(257): warning:  #177-D: variable "LED" was declared but never referenced
+Main.c(302): warning:  #111-D: statement is unreachable
+Main.c(309): warning:  #177-D: variable "i" was declared but never referenced
+Target not created
+Build target 'Target 1'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(272): warning:  #111-D: statement is unreachable
+Main.c(257): warning:  #177-D: variable "i" was declared but never referenced
+Main.c(257): warning:  #177-D: variable "LED" was declared but never referenced
+Main.c(302): warning:  #111-D: statement is unreachable
+Main.c(309): warning:  #177-D: variable "i" was declared but never referenced
+linking...
+Project4.axf: Error: L6218E: Undefined symbol ADCStat (referred from adc.o).
+Project4.axf: Error: L6218E: Undefined symbol ADCValue (referred from adc.o).
+Target not created
+Build target 'Target 1'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(272): warning:  #111-D: statement is unreachable
+Main.c(257): warning:  #177-D: variable "i" was declared but never referenced
+Main.c(257): warning:  #177-D: variable "LED" was declared but never referenced
+Main.c(302): warning:  #111-D: statement is unreachable
+Main.c(309): warning:  #177-D: variable "i" was declared but never referenced
+linking...
+Program Size: Code=11104 RO-data=6556 RW-data=2148 ZI-data=5820  
+"Project4.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\MTE241\\Project4\\Project4\\Project4.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(272): warning:  #111-D: statement is unreachable
+Main.c(257): warning:  #177-D: variable "i" was declared but never referenced
+Main.c(257): warning:  #177-D: variable "LED" was declared but never referenced
+Main.c(302): warning:  #111-D: statement is unreachable
+Main.c(324): warning:  #69-D: integer conversion resulted in truncation
+Main.c(309): warning:  #177-D: variable "i" was declared but never referenced
+linking...
+Program Size: Code=11104 RO-data=6556 RW-data=2148 ZI-data=5820  
+"Project4.axf" - 0 Error(s), 7 Warning(s).
+Load "N:\\MTE241\\Project4\\Project4\\Project4.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(272): warning:  #111-D: statement is unreachable
+Main.c(257): warning:  #177-D: variable "i" was declared but never referenced
+Main.c(257): warning:  #177-D: variable "LED" was declared but never referenced
+Main.c(302): warning:  #111-D: statement is unreachable
+Main.c(324): warning:  #69-D: integer conversion resulted in truncation
+Main.c(309): warning:  #177-D: variable "i" was declared but never referenced
+linking...
+Program Size: Code=11112 RO-data=6556 RW-data=2148 ZI-data=5820  
+"Project4.axf" - 0 Error(s), 7 Warning(s).
+Load "N:\\MTE241\\Project4\\Project4\\Project4.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(272): warning:  #111-D: statement is unreachable
+Main.c(257): warning:  #177-D: variable "i" was declared but never referenced
+Main.c(257): warning:  #177-D: variable "LED" was declared but never referenced
+Main.c(302): warning:  #111-D: statement is unreachable
+Main.c(318): warning:  #69-D: integer conversion resulted in truncation
+Main.c(309): warning:  #177-D: variable "i" was declared but never referenced
+linking...
+Program Size: Code=11112 RO-data=6556 RW-data=2148 ZI-data=5820  
+"Project4.axf" - 0 Error(s), 7 Warning(s).
+Load "N:\\MTE241\\Project4\\Project4\\Project4.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(272): warning:  #111-D: statement is unreachable
+Main.c(257): warning:  #177-D: variable "i" was declared but never referenced
+Main.c(257): warning:  #177-D: variable "LED" was declared but never referenced
+Main.c(302): warning:  #111-D: statement is unreachable
+Main.c(309): warning:  #177-D: variable "i" was declared but never referenced
+linking...
+Program Size: Code=11112 RO-data=6556 RW-data=2148 ZI-data=5820  
+"Project4.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\MTE241\\Project4\\Project4\\Project4.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(272): warning:  #111-D: statement is unreachable
+Main.c(257): warning:  #177-D: variable "i" was declared but never referenced
+Main.c(257): warning:  #177-D: variable "LED" was declared but never referenced
+Main.c(302): warning:  #111-D: statement is unreachable
+Main.c(309): warning:  #177-D: variable "i" was declared but never referenced
+linking...
+Program Size: Code=11108 RO-data=6556 RW-data=2148 ZI-data=5820  
+"Project4.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\MTE241\\Project4\\Project4\\Project4.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(272): warning:  #111-D: statement is unreachable
+Main.c(257): warning:  #177-D: variable "i" was declared but never referenced
+Main.c(257): warning:  #177-D: variable "LED" was declared but never referenced
+Main.c(302): warning:  #111-D: statement is unreachable
+Main.c(309): warning:  #177-D: variable "i" was declared but never referenced
+linking...
+Program Size: Code=11108 RO-data=6556 RW-data=2148 ZI-data=5820  
+"Project4.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\MTE241\\Project4\\Project4\\Project4.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(272): warning:  #111-D: statement is unreachable
+Main.c(257): warning:  #177-D: variable "i" was declared but never referenced
+Main.c(257): warning:  #177-D: variable "LED" was declared but never referenced
+Main.c(302): warning:  #111-D: statement is unreachable
+Main.c(309): warning:  #177-D: variable "i" was declared but never referenced
+linking...
+Program Size: Code=11108 RO-data=6556 RW-data=2148 ZI-data=5820  
+"Project4.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\MTE241\\Project4\\Project4\\Project4.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(272): warning:  #111-D: statement is unreachable
+Main.c(257): warning:  #177-D: variable "i" was declared but never referenced
+Main.c(257): warning:  #177-D: variable "LED" was declared but never referenced
+Main.c(302): warning:  #111-D: statement is unreachable
+Main.c(309): warning:  #177-D: variable "i" was declared but never referenced
+linking...
+Program Size: Code=11104 RO-data=6556 RW-data=2148 ZI-data=5820  
+"Project4.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\MTE241\\Project4\\Project4\\Project4.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(272): warning:  #111-D: statement is unreachable
+Main.c(257): warning:  #177-D: variable "i" was declared but never referenced
+Main.c(257): warning:  #177-D: variable "LED" was declared but never referenced
+Main.c(302): warning:  #111-D: statement is unreachable
+Main.c(309): warning:  #177-D: variable "i" was declared but never referenced
+linking...
+Program Size: Code=11104 RO-data=6556 RW-data=2148 ZI-data=5820  
+"Project4.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\MTE241\\Project4\\Project4\\Project4.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(275): warning:  #111-D: statement is unreachable
+Main.c(305): warning:  #111-D: statement is unreachable
+Main.c(312): warning:  #177-D: variable "i" was declared but never referenced
+linking...
+Program Size: Code=11124 RO-data=6556 RW-data=2148 ZI-data=5820  
+"Project4.axf" - 0 Error(s), 4 Warning(s).
+Load "N:\\MTE241\\Project4\\Project4\\Project4.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(348): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=11208 RO-data=6556 RW-data=2148 ZI-data=5820  
+"Project4.axf" - 0 Error(s), 2 Warning(s).
+Load "N:\\MTE241\\Project4\\Project4\\Project4.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
