@@ -1,0 +1,9 @@
+.\Flash\potentiometer.o: potentiometer.c
+.\Flash\potentiometer.o: c:\Software\Keil\ARM\Inc\NXP\LPC17xx\lpc17xx.h
+.\Flash\potentiometer.o: c:\Software\Keil\ARM\CMSIS\Include\core_cm3.h
+.\Flash\potentiometer.o: c:\Software\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\Flash\potentiometer.o: c:\Software\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\Flash\potentiometer.o: c:\Software\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\Flash\potentiometer.o: c:\Software\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\Flash\potentiometer.o: c:\Software\Keil\ARM\RV31\INC\rtl.h
+.\Flash\potentiometer.o: potentiometer.h

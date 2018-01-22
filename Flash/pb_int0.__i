@@ -1,0 +1,5 @@
+-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O3 --apcs=interwork -I. 
+-I c:\Software\Keil\ARM\RV31\INC 
+-I c:\Software\Keil\ARM\CMSIS\Include 
+-I c:\Software\Keil\ARM\Inc\NXP\LPC17xx 
+-o ".\Flash\pb_int0.o" --omf_browse ".\Flash\pb_int0.crf" --depend ".\Flash\pb_int0.d" "PB_int0.c"

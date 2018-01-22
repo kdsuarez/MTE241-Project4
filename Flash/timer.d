@@ -1,0 +1,9 @@
+.\Flash\timer.o: timer.c
+.\Flash\timer.o: c:\Software\Keil\ARM\Inc\NXP\LPC17xx\lpc17xx.h
+.\Flash\timer.o: c:\Software\Keil\ARM\CMSIS\Include\core_cm3.h
+.\Flash\timer.o: c:\Software\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\Flash\timer.o: c:\Software\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\Flash\timer.o: c:\Software\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\Flash\timer.o: c:\Software\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\Flash\timer.o: type.h
+.\Flash\timer.o: timer.h
